@@ -1,8 +1,39 @@
 # Cadence
 
-Cadence sells video courses to learners. This glossary covers the language around getting money back after a purchase.
+Cadence sells video courses to learners. This glossary covers the people who run the platform and the language around getting money back after a purchase.
 
 ## Language
+
+### People
+
+**Platform Admin**:
+A member of the Cadence staff who runs the platform as a whole, including deciding Refund Requests.
+_Avoid_: Admin (on its own), Staff, Superuser
+
+**Team Admin**:
+A person who manages a team that bought seats, such as handing out its coupon links. It gives no power over the platform.
+_Avoid_: Admin (on its own), Team owner, Manager
+
+### Purchases and access
+
+**Purchase**:
+One payment for a course. Every Purchase is either a Personal Purchase or a Team Purchase.
+_Avoid_: Order, Transaction
+
+**Personal Purchase**:
+A Purchase someone makes for themselves, which gives them an Enrollment.
+
+**Team Purchase**:
+A Purchase of one or more Seats for a team to hand out. It gives the buyer no Enrollment of their own.
+_Avoid_: Team pack, Licence, Bulk buy
+
+**Seat**:
+One place on a Team Purchase, handed out as a coupon link. A Seat is Claimed once a learner redeems it, and Unclaimed until then.
+_Avoid_: Licence, Coupon (for the place itself)
+
+**Enrollment**:
+A learner's access to a course. Approving their Refund Request ends it.
+_Avoid_: Access, Registration, Membership
 
 ### Refunds
 
